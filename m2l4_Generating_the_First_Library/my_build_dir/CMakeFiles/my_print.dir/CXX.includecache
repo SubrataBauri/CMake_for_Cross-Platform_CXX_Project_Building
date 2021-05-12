@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l4_Generating_the_First_Library/print_result.cpp
+iostream
+-
+

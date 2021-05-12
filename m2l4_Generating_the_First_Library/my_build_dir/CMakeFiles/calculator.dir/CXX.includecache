@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l4_Generating_the_First_Library/addition.h
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l4_Generating_the_First_Library/division.h
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l4_Generating_the_First_Library/main.cpp
+iostream
+-
+addition.h
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l4_Generating_the_First_Library/addition.h
+division.h
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l4_Generating_the_First_Library/division.h
+print_result.h
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l4_Generating_the_First_Library/print_result.h
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l4_Generating_the_First_Library/print_result.h
+
