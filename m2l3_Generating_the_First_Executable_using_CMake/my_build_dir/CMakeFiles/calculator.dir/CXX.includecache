@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l3_Generating_the_First_Executable_using_CMake/addition.cpp
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l3_Generating_the_First_Executable_using_CMake/addition.h
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l3_Generating_the_First_Executable_using_CMake/division.cpp
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l3_Generating_the_First_Executable_using_CMake/division.h
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l3_Generating_the_First_Executable_using_CMake/main.cpp
+iostream
+-
+addition.h
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l3_Generating_the_First_Executable_using_CMake/addition.h
+division.h
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l3_Generating_the_First_Executable_using_CMake/division.h
+print_result.h
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l3_Generating_the_First_Executable_using_CMake/print_result.h
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l3_Generating_the_First_Executable_using_CMake/print_result.cpp
+iostream
+-
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m2l3_Generating_the_First_Executable_using_CMake/print_result.h
+
