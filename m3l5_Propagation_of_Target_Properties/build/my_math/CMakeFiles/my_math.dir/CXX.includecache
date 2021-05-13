@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m3l5_Propagation_of_Target_Properties/my_math/src/addition.cpp
+my_math/addition.h
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m3l5_Propagation_of_Target_Properties/my_math/src/my_math/addition.h
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m3l5_Propagation_of_Target_Properties/my_math/src/division.cpp
+my_math/division.h
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m3l5_Propagation_of_Target_Properties/my_math/src/my_math/division.h
+
