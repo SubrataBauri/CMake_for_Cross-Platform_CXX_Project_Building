@@ -52,8 +52,9 @@ message(${find_var})
 string(REPLACE "Projects" "Project" replaced_var ${VAR} )
 message(${replaced_var})
 
-string(PREPEND replaced_var "Master ")
-message(${replaced_var})
+# Available from cmae v3.10
+#string(PREPEND replaced_var "Master ")
+#message(${replaced_var})
 
 string(APPEND replaced_var " Building")
 message(${replaced_var})
