@@ -6,11 +6,12 @@ set(Alice Bob)
 
 set(NAMEAliceBob Charlie)
 
-#message(${${NAME}})
+message(${${NAME}})
 
-#message(${NAME ${NAME} ${${NAME}}})
+# Gives error
+message(${NAME ${NAME} ${${NAME}}})
 
 message(${NAME${NAME}${${NAME}}})
 
-#message("NAME ${NAME} ${${NAME}}")
+message("NAME ${NAME} ${${NAME}}")
 

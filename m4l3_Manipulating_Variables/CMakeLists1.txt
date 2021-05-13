@@ -4,13 +4,14 @@ set(NAME 3.14)
 
 set(3.14 Bob)
 
-set(NAMEAliceBob Charlie)
+set(NAME3.14Bob Charlie)
 
 message(${${NAME}})
 
+#Gives Error
 #message(${NAME ${NAME} ${${NAME}}})
 
-#message(${NAME${NAME}${${NAME}}})
+message(${NAME${NAME}${${NAME}}})
 
-#message("NAME ${NAME} ${${NAME}}")
+message("NAME ${NAME} ${${NAME}}")
 
