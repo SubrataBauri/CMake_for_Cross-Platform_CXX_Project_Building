@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../my_print_dir/include/print_result.h
+
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m3l3_CMake_way_of_Including_the_Header_Files/my_print_dir/src/print_result.cpp
+iostream
+-
+print_result.h
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m3l3_CMake_way_of_Including_the_Header_Files/my_print_dir/src/print_result.h
+
