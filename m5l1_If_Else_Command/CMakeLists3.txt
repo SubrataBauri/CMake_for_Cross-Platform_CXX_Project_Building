@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.0.0)
 
 
-set(Name1 Charlie)
+set(Name1 Charliet)
 set(Name2 Charlies)
 
 if(Name1 STRLESS Name2)

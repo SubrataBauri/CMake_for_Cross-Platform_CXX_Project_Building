@@ -14,7 +14,7 @@ else()
 	message("target_link_libraries is NOT a command")
 endif()
 
-if(EXISTS /home/mky/Desktop/cmake_tutorials/module5/CMakeLists.txt)
+if(EXISTS /home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m5l1_If_Else_Command/CMakeLists.txt)
 	message("Given file exists")
 else()
 	message("File not found")
