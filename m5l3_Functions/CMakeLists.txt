@@ -13,3 +13,4 @@ endfunction()
 set(Name Charlie)
 
 _print_detail(Name)
+print_detail(Name)
