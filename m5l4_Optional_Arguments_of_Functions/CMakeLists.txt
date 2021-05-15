@@ -28,6 +28,6 @@ endfunction()
 
 
 
-set(Name Charlie)
+set(Name Subrata)
 
 print_detail(Name Bob Alice)
