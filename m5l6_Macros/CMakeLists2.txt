@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.0.0)
+
+set(a b)
+set(b c)
+set(c d)
+set(d e)
+set(e f)
+set(f g)
+set(g h)
+
+function(print_char temp)
+    message(${temp})
+    message(${${${temp}}})
+endfunction()
+
+#message(${${${a}}})
+#message(${${${d}}})
+print_char(${${${a}}})

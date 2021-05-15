@@ -6,4 +6,4 @@ macro(print_detail name_var)
 	message("My name is ${name_var}")
 endmacro()
 
-print_detail(Charlie)
+print_detail(Subrata)
