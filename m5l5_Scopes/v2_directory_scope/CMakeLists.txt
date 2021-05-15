@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0.0)
 
-set(Name Charlie)
+set(Name SubrataDir)
 
 message("Root directory:	Before adding subdirectory: ${Name}")
 add_Subdirectory(demo_subdirectory_scope)

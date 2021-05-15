@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0.0)
 
-set(Name Charlie)
+set(Name Subrata)
 
 function(print_detail)
 	message("Inside function: Before modification: ${Name}")

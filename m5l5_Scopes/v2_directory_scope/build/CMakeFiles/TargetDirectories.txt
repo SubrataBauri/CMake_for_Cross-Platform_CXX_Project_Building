@@ -1,0 +1,4 @@
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m5l5_Scopes/v2_directory_scope/build/CMakeFiles/rebuild_cache.dir
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m5l5_Scopes/v2_directory_scope/build/CMakeFiles/edit_cache.dir
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m5l5_Scopes/v2_directory_scope/build/demo_subdirectory_scope/CMakeFiles/rebuild_cache.dir
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m5l5_Scopes/v2_directory_scope/build/demo_subdirectory_scope/CMakeFiles/edit_cache.dir
