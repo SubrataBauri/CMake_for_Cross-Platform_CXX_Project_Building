@@ -19,6 +19,12 @@ set(Name Alice CACHE STRING "The name variable")
 #set(Name Bob CACHE STRING "The modified name variable" FORCE)
 message($CACHE{Name})
 
+message(CMAKE_VERSION=${CMAKE_VERSION})
+message(CMAKE_MAJOR_VERSION=${CMAKE_MAJOR_VERSION})
+message(CMAKE_MINOR_VERSION=${CMAKE_MINOR_VERSION})
+message(CMAKE_PATCH_VERSION=${CMAKE_PATCH_VERSION})
 
+message("Root Level CMakeLists: CMAKE_PROJECT_NAME=${CMAKE_PROJECT_NAME}")
+message("Root Level CMakeLists: PROJECT_NAME=${PROJECT_NAME}")
 
 
