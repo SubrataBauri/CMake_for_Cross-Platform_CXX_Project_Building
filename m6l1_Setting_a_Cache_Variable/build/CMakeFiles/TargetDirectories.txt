@@ -1,0 +1,9 @@
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m6l1_Setting_a_Cache_Variable/build/CMakeFiles/rebuild_cache.dir
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m6l1_Setting_a_Cache_Variable/build/CMakeFiles/calculator.dir
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m6l1_Setting_a_Cache_Variable/build/CMakeFiles/edit_cache.dir
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m6l1_Setting_a_Cache_Variable/build/my_math/CMakeFiles/rebuild_cache.dir
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m6l1_Setting_a_Cache_Variable/build/my_math/CMakeFiles/my_math.dir
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m6l1_Setting_a_Cache_Variable/build/my_math/CMakeFiles/edit_cache.dir
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m6l1_Setting_a_Cache_Variable/build/my_print/CMakeFiles/rebuild_cache.dir
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m6l1_Setting_a_Cache_Variable/build/my_print/CMakeFiles/my_print.dir
+/home/conan/CMake_for_Cross-Platform_CXX_Project_Building/m6l1_Setting_a_Cache_Variable/build/my_print/CMakeFiles/edit_cache.dir
